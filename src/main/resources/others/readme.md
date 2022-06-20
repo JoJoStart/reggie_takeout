@@ -1,0 +1,1 @@
+`others/ReggieTakeoutPictures_1`目录中有可能用到的图片资源
