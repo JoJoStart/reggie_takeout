@@ -12,8 +12,8 @@
 
 # 其他
 
-`src/main/resources/others/ReggieTakeoutPictures_1`目录中有可能用到的图片资源
+`项目地址/others/ReggieTakeoutPictures_1`目录中有可能用到的图片资源
 
-`src/main/resources/others/ReggieTakeoutPictures_1`目录里有项目使用到的数据库的 sql 文件
+`项目地址/others/ReggieTakeoutPictures_1`目录里有项目使用到的数据库的 sql 文件
 
 本项目是使用 idea + mysql8 开发的
