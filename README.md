@@ -17,3 +17,5 @@
 `项目地址/others/ReggieTakeoutPictures_1`目录里有项目使用到的数据库的 sql 文件
 
 本项目是使用 idea + mysql8 开发的
+
+需要注意的是图片资源不可以放在项目里。
