@@ -10,7 +10,7 @@ spring:
       url: jdbc:mysql://localhost:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
       # url: jdbc:mysql://localhost:3306/db_campus_market?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true&useUnicode=true
       username: root
-      password: root
+      password: 380258574
 
 mybatis-plus:
   configuration:
@@ -22,4 +22,5 @@ mybatis-plus:
       id-type: ASSIGN_ID
 
 reggie:
-  path: {存放项目的地址}\reggie_takeout\src\main\resources\others\ReggieTakeoutPictures_1
+  path: D:\IdeaProjects\Study\vStudy202206\GitTests\reggie_takeout\others\ReggieTakeoutPictures_1
+  # path: {存放项目的地址}\reggie_takeout\others\ReggieTakeoutPictures_1
